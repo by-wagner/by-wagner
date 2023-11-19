@@ -44,16 +44,6 @@
 
 ###
 
-<h2 align="center">On Repeat These Days</h2>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=6&unique=false" alt="Spotify recently played"  />
-</div>
-
-###
-
 <h2 align="center">Contact Details</h2>
 
 ###
