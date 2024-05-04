@@ -43,17 +43,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
-
-###
-
-<h2 align="center">Contact</h2>
-
-###
-
-<div align="left">
-  <a href="https://linkedin.com/in/-wagnersantos/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  /> 
-  </a>
-</div>
-
-###
