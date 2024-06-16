@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=by-wagner&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=by-wagner&theme=material-palenight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=by-wagner&theme=graywhite&show_icons=true&hide_border=true&count_private=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-wagner&layout=donut&theme=graywhite&show_icons=true&hide_border=true&count_private=true" height="200" alt="stats graph"  />
 </div>
 
 ###
